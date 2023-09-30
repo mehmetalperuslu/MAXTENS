@@ -1,0 +1,17 @@
+"Source:","C:\Users\alper\OneDrive\Documents\Maxwell\PCB Design\MaxTENS\MaxTENS.kicad_sch"
+"Date:","26/08/2023 19:11:03"
+"Tool:","Eeschema 7.0.5"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","8"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP","Alternative Manufacturer 1","Alternative Manufacturer Part Number 1","Description","Detailed Description","Long Description","Manufacturer","Manufacturer Part Number","Package","Sim.Device","Sim.Pins","Sim.Type"
+"1","1","C1","10uF","Device:C_Polarized","Capacitor_SMD:C_0805_2012Metric","~","","Samsung Electro-Mechanics","CL21B106KOQNNNE","","","","Samsung Electro-Mechanics","CL21B106KOQNNNG","","","",""
+"2","1","C2","56uF","Device:C_Polarized","A768MS566M1KLAE034:CAP_A768MS566M1KLAE034_KEM-L","~","","","","CAP ALUM POLY 56UF 20% 80V SMD","","56 µF 80 V Aluminum - Polymer Capacitors Radial, Can - SMD 34mOhm 2000 Hrs @ 125°C","KEMET","A768MS566M1KLAE034","Non-standard SMD","","",""
+"3","1","D1","SK520B","Device:D_Schottky","Diode_SMD:D_SMB","~","","","","DIODE SCHOTTKY 200V 5A SMB","","Diode 200 V 5A Surface Mount SMB (DO-214AA)","SMC Diode Solutions","SK520B","SMB","","",""
+"4","1","L1","33uH","Device:L","Inductor_THT:L_Radial_D12.0mm_P6.00mm_Murata_1900R","~","","","","FIXED IND 33UH 3.39A 0.059OHM TH","33 µH Unshielded Drum Core, Wirewound Inductor 3.39 A 59mOhm Max Radial, Vertical Cylinder","","Bourns","6100-330K-RC","TH","","",""
+"5","1","Q1","PMV37ENEAR","Simulation_SPICE:NMOS","Package_TO_SOT_SMD:SOT-23","https://ngspice.sourceforge.io/docs/ngspice-manual.pdf","","","","","","","Nexperia","PMV37ENEAR","SOT23-3","NMOS","1=G 2=S 3=D","VDMOS"
+"6","1","R1","200k","Device:R","Resistor_SMD:R_0402_1005Metric","~","","","","RES 200K OHM 1% 1/16W 0402","","200 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film","Yageo","RC0402FR-07200KL","0402","","",""
+"7","1","R2","11.5k","Device:R","Resistor_SMD:R_0402_1005Metric","~","","","","RES 11.5K OHM 1% 1/16W 0402","","11.5 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film","Yageo","RC0402FR-0711K5L","0402","","",""
+"8","1","R3","0","Device:R","Resistor_SMD:R_0402_1005Metric","~","","","","RES 0 OHM JUMPER 1/16W 0402","","0 Ohms Jumper Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film","Yageo","RC0402FR-070RL","0402","","",""
