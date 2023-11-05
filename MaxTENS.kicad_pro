@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.15
         }
       },
       "diff_pair_dimensions": [
@@ -55,7 +55,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "starved_thermal|208365000|92210000|a460b1dd-2890-4a64-b2dd-15febbd3b5ba|848d96d8-e3c4-41ba-bcc8-e90b7643d39e|F.Cu"
+      ],
       "meta": {
         "version": 2
       },
@@ -441,7 +443,7 @@
       "idf": "../../../../OneDrive/Desktop/MaxTENS.emn",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../OneDrive/Desktop/MaxTENSPBAv4.step",
+      "step": "../../../../OneDrive/Desktop/MaxTENSPBAv7.step",
       "vrml": "../../../../OneDrive/Desktop/MaxTENS.wrl"
     },
     "page_layout_descr_file": ""
